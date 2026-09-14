@@ -12,11 +12,7 @@ It solves the problem of extracting nested, multi-level player statistics across
 
 ## 📸 Project Showcase & Visual Output
 
-<p align="center">
-  <img src="automated%20web%20scrapping%20thumbnails.jpeg" alt="Automated Web Scraping Dashboard Showcase" width="100%">
-</p>
-
----
+<img width="1200" height="896" alt="automated web scrapping thumbnails" src="https://github.com/user-attachments/assets/43fe7b16-d39c-463c-bbff-a9ad310a37e9" />
 
 ## 🛠️ Key Capabilities & Technical Features
 
